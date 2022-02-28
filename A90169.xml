@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders establisht in the popish generall assembly, held (under the specious pretence of supreme authority, and being his Majesties good subjects) at the city of Kilkenny in Ireland. Wherein both root and branches of the English nation, as also the very essence of Protestant religion are wholly struck at.</title>
+            <author>Ireland. General Assembly at Kilkenny.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90169</idno>
+            <idno type="STC">Wing O398</idno>
+            <idno type="STC">Thomason E60_19</idno>
+            <idno type="STC">Thomason E91_9</idno>
+            <idno type="STC">ESTC R353</idno>
+            <idno type="EEBO-CITATION">99872409</idno>
+            <idno type="PROQUEST">99872409</idno>
+            <idno type="VID">130886</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90169)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 130886)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E60[19], 16:E91[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders establisht in the popish generall assembly, held (under the specious pretence of supreme authority, and being his Majesties good subjects) at the city of Kilkenny in Ireland. Wherein both root and branches of the English nation, as also the very essence of Protestant religion are wholly struck at.</title>
+                  <author>Ireland. General Assembly at Kilkenny.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Bishop, for Lawrence Blaiklock, and are to be sold at the sugar-loafe within Temple Barre,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This item is found at reels 11:E.60[19] and 16:E.91[9].</note>
+                  <note>Annotation on Thomason copy E.60[19]: "July 18"; on Thomason E.91[9]: "Feb: 28 1642".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  Church history --  Early works to 1800.</term>
+               <term>Ireland --  History --  17th century --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:130886:1"/>
+            <pb facs="tcp:130886:1" rendition="simple:additions"/>
+            <p>ORDERS Eſtabliſht in the Popiſh generall Aſsembly, Held (under the ſpecious pretence of Supreme Authority, and being his Majeſties good Subjects) at the City of KILKENNY IN IRELAND.</p>
+            <p>Wherein Both Root and Branches of the En<g ref="char:EOLhyphen"/>gliſh Nation, as alſo the very Eſſence of Proteſtant Religion are wholly ſtruck at.</p>
+            <q>Impune quaelibet facere id eſt Regemeſſe.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Biſhop,</hi> for <hi>Lawrence Blaiklock,</hi> and are to be ſold at the Sugar-loafe within Temple Barre, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:130886:2"/>
+            <pb n="1" facs="tcp:130886:2"/>
+            <head>Orders made and eſtabliſhed by the Lords Spirituall and Temporall, and the reſt of the Generall Aſſembly for the Kingdom of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> met at the City of <hi>Kilkenny</hi> the 24<hi rend="sup">th</hi> day of Octo<g ref="char:EOLhyphen"/>ber <hi>Anno Dom.</hi> 1642. and in the 18<hi rend="sup">th</hi> yeare of the Reign of our Soveraign Lord King CHARLES <hi>by the Grace of God King of Great Brittaine, France, and Ireland, &amp;c.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>Mprimis,</hi> That the Roman Catholike Church in <hi>Ireland</hi> ſhall and may have and enjoy the Priviledges and Immunities, according to the great Charter made and declared within the Realme of <hi>England</hi> in the ninth yeare of King <hi>Henry</hi> the third, ſometimes King of <hi>England,</hi> and Lord of <hi>Ireland,</hi> and afterwards enacted and confirmed in this Realm of <hi>Ireland;</hi> and that the Common Law of <hi>England,</hi> and all the Statutes of force in this Kingdome which are not againſt the Catholike Roman Religion, or the liberties of the Natives and other liberties of this Kingdome, ſhall bee obſerved throughout the whole Kingdome, and that all proceedings in civill and criminal cauſes ſhall be according to the ſaid laws.</p>
+            <p n="2">2. <hi>Item,</hi> That all and every perſon and perſons within this Realme ſhall beare Faith and true Allegeance unto our Sove<g ref="char:EOLhyphen"/>raigne Lord King <hi>Charles</hi> by the Grace of God King of great
+<pb n="2" facs="tcp:130886:3"/>Brittaine, <hi>France,</hi> and <hi>Ireland,</hi> his Heires, and lawfull Suc<g ref="char:EOLhyphen"/>ceſſors, and ſhall uphold and maintaine his and their Rights, and lawfull Prerogatives with the utmoſt skill &amp; power of ſuch perſon or perſons, againſt all manner of perſons whatſoever.</p>
+            <p n="3">3. <hi>Item,</hi> That the common Laws of <hi>England</hi> and <hi>Ireland,</hi> and the ſaid Statutes, called the great Charter, and every Clauſe, Branch, and Article thereof, and all other Statutes confirming, expounding, or declaring the ſame, ſhall be pun<g ref="char:EOLhyphen"/>ctually obſerved within this Kingdome, ſo farre forth as the condition of the preſent times, during theſe times, can by poſſibilities give way thereunto; and after the warre is en<g ref="char:EOLhyphen"/>ded, the ſame to be obſerved without any limitation or re<g ref="char:EOLhyphen"/>ſtriction whatſoever.</p>
+            <p n="4">4. In as much as the City of <hi>Dublin</hi> is the uſuall and prin<g ref="char:EOLhyphen"/>cipall ſeat of Juſtice of this Kingdome, where the Parliament and ordinary Courts were held, and ſome other places where principall Councels were ſomtimes kept, are as yet poſſeſſed and commanded by the Malignant party, who are enimies to God and their King, and his Majeſties well affected Subjects; this Aſſembly is neceſſitated, during this warre in ſome for<g ref="char:EOLhyphen"/>mallities and circumſtances, to deviate from the proceedings preſcribed by the ſaid Lawes and Statutes, nevertheleſſe re<g ref="char:EOLhyphen"/>taineth the ſubſtance and offence thereof, ſo farre forth as the endleſſe malice and cruelty of their enemies, the ſaid Ma<g ref="char:EOLhyphen"/>lignant party doth permit; who ſhut up the ſaid places, and other paſſages and wayes to his Majeſties Juſtice and Mercy, from his Majeſties well affected Subjects of this Kingdome: For the exaltation therefore of the holy Roman Catholike Church, for the advancement of his Majeſties ſer<g ref="char:EOLhyphen"/>vice, and the preſervation of the lives, eſtates, and liberties of his Majeſties true Subjects of this Kingdome, againſt the Injuſtice, Murders, Maſſacres, Rapes, Depredations,
+<pb n="3" facs="tcp:130886:3"/>Robberies, Burning, frequent breaches of Publick Faith, and Quarter and Deſtruction daily perpetrated and acted upon his Majeſties ſaid Subjects, and adviſed contrived and daily executed by the ſaid Malignant party; ſome of them mannaging the Government and Affaires of State in <hi>Dublin,</hi> and ſome other parts of this Kingdome, to his Highneſſe greateſt diſſervice, and complying with their Confederates, the Malignant party, in <hi>England</hi> and elſe<g ref="char:EOLhyphen"/>where; who (as it is manifeſt to all the world) doe com<g ref="char:EOLhyphen"/>plot and practiſe to diſhonour and deſtroy his Majeſtie, his Royall Conſort the Queene, their Iſſue, and Monar<g ref="char:EOLhyphen"/>chall Government, which is of moſt dangerous Conſe<g ref="char:EOLhyphen"/>quence to all the Monarchs and Princes of Chriſten<g ref="char:EOLhyphen"/>dome.</p>
+            <p>The ſaid Aſſembly doth Order and eſtabliſh a Councell by name of a Supreme Councell, of the Confederate Ca<g ref="char:EOLhyphen"/>tholikes of <hi>Ireland,</hi> who are to conſiſt of the number of foure and twenty, to bee forthwith named by the Aſſembly; whereof twelve at the leaſt to be forthwith named, ſhall reſide in this Kingdome, or where elſe they ſhall think ex<g ref="char:EOLhyphen"/>pedient; and the Members of the ſaid Councell ſhall have equall Votes, and two parts of three or more concurring, preſent Votes to conclude; and no fewer to ſit in Coun<g ref="char:EOLhyphen"/>cell then nine, whereof ſeven at leaſt are to concurre: and of the foure and twenty a Preſident ſhall bee named by the Aſſembly, who is to bee one of the ſaid twelve re<g ref="char:EOLhyphen"/>ſident; and if in caſe of his death, abſence, or ſickneſſe, the reſt of theſe who ſhall bee reſident, may name a Vice-Preſident of the ſaid foure and twenty: and the ſaid Councell ſhall have the Power and Preheminence following, <hi>viz.</hi>
+            </p>
+            <p>The Lords Generals, and all other Commanders of Armies,
+<pb n="4" facs="tcp:130886:4"/>and civill Magiſtrates and Officers in the ſeverall Provinces ſhall obſerve their Orders and Decrees, and ſhall doe nothing contrary to their directions, and ſhall give them ſpeedy ad<g ref="char:EOLhyphen"/>vertiſement and accompt of their proceedings and actions, with as much expedition as may be. That the ſaid Councell ſhall have power to order and determine all ſuch matters as by this Aſſembly ſhall bee left undetermined, and ſhall be re<g ref="char:EOLhyphen"/>commended unto them, and their Orders therein to bee of force untill the next Aſſembly, and after untill the ſame bee revoked.</p>
+            <p>That the ſaid Councell ſhall have power and authority to doe and execute all manner of Acts and things conducing to the advancement of the Catholike Cauſe, and good of this Kingdome, and concerning this warre, as if done by the Aſ<g ref="char:EOLhyphen"/>ſembly; and ſhall have power to heare and determine all matters capitall, criminall, or civill, excepting the right or title of Land.</p>
+            <p>That the Generals, or other Commanders of Armies, and all Governors or civill Magiſtrates, and all other Perſons within this Realme, ſhall obey the Orders and Decrees of the ſaid Councell touching the preſent Service.</p>
+            <p>That the Councell ſhall have for their Guard the number of five hundred Foot and two hundred Horſe, to be equally extracted out of the Armies of the foure Provinces.</p>
+            <p n="5">5. <hi>Item,</hi> It is further ordered and eſtabliſhed, that in every Province of this Kingdom there ſhall be a Provinciall Coun<g ref="char:EOLhyphen"/>cell, and in every County a County Councell: the Provinciall Councell to bee compoſed of the number of two of each County, and the ſaid Provinciall Councell ſhall chuſe a Pre<g ref="char:EOLhyphen"/>ſident of themſelves.</p>
+            <p n="6">6. That the Provinciall Councell ſhall ſit foure times a yeare, and oftner if there be cauſe for it; that they ſhall have
+<pb n="5" facs="tcp:130886:4"/>power and authority to renew or reverſe the Judgement of the County Councell, the party complaining entring ſecu<g ref="char:EOLhyphen"/>rity, <hi>de adjudicat. ſolvend.</hi> and ſhall (during the trouble) have power to heare and determine all matters of the Crown, as Judges of <hi>Oyer and Terminer,</hi> and Goale delivery, were wont to doe, ſo that no ſpirituall perſon be preſent at the de<g ref="char:EOLhyphen"/>termining of matters of blood; and ſhall have power to heare and determine all civill Cauſes, and to eſtabliſh Rents and Poſſeſſions, ſo they meddle not with the title of land other then in caſe of Dower or Joynture: and the Sheriffs, Pro<g ref="char:EOLhyphen"/>vinciall Generals, and all Commanders of the Armies, in caſe of diſobedience, are reſpectively required to execute the Decrees and Orders; and in caſe of Debts and Accompts, great conſideration is to be had of the diſabilities of Credi<g ref="char:EOLhyphen"/>tors occaſioned by the warre.</p>
+            <p n="7">7. <hi>Item,</hi> In every County there ſhall be a County Councell, conſiſting of one or two of each Barony, at the election of the County: and where there are not Baronies, the Councell of ſuch County to conſiſt of the number of twelve, and the ſaid County Councell ſhall have power and authority in all points, as Juſtices of the Peace, to heare and determine all matters concerning the Offices of the Juſtices of Peace, and all matters of the Crowne happening within every ſuch County; and the Delinquent, being a Free-holder, may if he pleaſe have his triall in the Province, and heare and deter<g ref="char:EOLhyphen"/>mine debts, treſpaſſes, and perſonall demands, and to doe all things as Juſtices of the Peace were accuſtomed to doe, and to reſtore and eſtabliſh Poſſeſſions taken by force or fraud ſince theſe troubles; and likewiſe to take a ſpeciall care, that Tenants and Farmers bee kept to their Farms where they were uſed, and to be preſerved from extortion and oppreſ<g ref="char:EOLhyphen"/>ſion; and that Trades, Tradeſmen, Manufactures, Agri<g ref="char:EOLhyphen"/>culture,
+<pb n="6" facs="tcp:130886:5"/>and Husbandry bee maintained and duly kept.</p>
+            <p n="8">8. <hi>Item,</hi> In every County there ſhall be Corronors, high She<g ref="char:EOLhyphen"/>riffs, high Conſtables, petty Conſtables, and Goalors, who are to do their reſpective Offices as accuſtomed; the high Sheriffe to be confirmed or nominated by the Supreme Councell out of three to be preſented by the County Councell, and the high Sheriffe is required to execute the Command, Orders, and Decrees of the Provinciall and County Councell.</p>
+            <p n="9">9. <hi>Item,</hi> In Cities and Towns Corporate Juſtice is to be done, and the Lawes executed as is accuſtomed.</p>
+            <p n="10">10. <hi>Item,</hi> In every County the high Sheriffe ſhall be Provoſt Marſhiall, and ſhall have power to execute a lay man not worth five pounds, and none other, for murder, man-ſlaughter, burglary, theft, robbery, or other capitall offence, provided the party to be executed may have foure and twenty houres time to prepare his ſoule; and that the Supreme or Provin<g ref="char:EOLhyphen"/>ciall Councell ſhall and may name more Provoſt Marſhialls, as they ſhall think expedient, quallified with the like autho<g ref="char:EOLhyphen"/>rity.</p>
+            <p n="11">11. <hi>Item,</hi> It is further ordered, that no temporall Go<g ref="char:EOLhyphen"/>vernment or Juriſdiction ſhall be aſſumed, kept, or exerciſed in this Kingdome, or within any County or Province thereof, during theſe troubles, other then is before expreſſed, except ſuch Juriſdiction and Government as is, or ſhall be, approved by this Generall Aſſembly, or the Supreme Councell.</p>
+            <p n="12">12. <hi>Item,</hi> It is further ordered, that whoſoever hath en<g ref="char:EOLhyphen"/>tred, ſince the firſt day of October 1641. or ſhall hereafter, du<g ref="char:EOLhyphen"/>ring the continuance of the warre in this Kingdom, enter into the Lands, Tenements, or Hereditaments, at or immediately before the firſt day of October, either by himſelfe or his under Tenants, or by receiving the Rents, Iſſues, or Profits thereof, ſhall immediately reſtore, upon demand, the ſaid Poſſeſſion
+<pb n="7" facs="tcp:130886:5"/>to the party or parties ſo put out, with ſuch reaſonable dam<g ref="char:EOLhyphen"/>mages, as the Councell Provinciall or Supreme ſhall think fit; and if the party refuſe to reſtore the ſaid Poſſeſſion as aforeſaid, upon demand of the party ſo put out, his heires or aſſignes, made to the ſaid poſſeſſor, his ſervants, or adherents in the premiſes or publication of this Order within the pariſh where ſuch land lieth, that upon his or their deniall thereof, or default therein, he, his heires and aſſignes ſhall be for ever after debarred and ſecluded from all and every right, title, intereſt, and demand which he or they may make or pretend to all or any the ſaid lands, tenements, or hereditaments: and if after ſuch deniall or default made, the ſaid party, his heires or aſſignes ſhall not immediately reſtore the poſſeſſion of the ſaid lands, tenements, or hereditaments ſo gained to the party grieved, his heires or aſſignes, that he, they, and his or their adherents in the premiſes, ſhall be declared and pro<g ref="char:EOLhyphen"/>ceeded with as enemies. Provided, and ſo it is meant, that if any of the parties ſo put out be declared a Neuter or enemy by the Supreme or Provinciall Councell; then the party who gained the poſſeſſion, as aforeſaid, ſhall give up the poſſeſſion to ſuch Perſon or Perſons as ſhall be named either by the ſaid Councell Provinciall, or Supreme Councell, to be diſpoſed of towards the maintenance of the generall Cauſe, upon the paine and penalty aforeſaid.</p>
+            <p>And as for the Rents and meane Profits of the ſaid lands, <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>menes, and hereditaments, and all kinde of Rents, and the goods or chattels taken or detained from any Catholike, as aforeſaid; due ſatisfaction is to be made for the ſame to the parties from whom the Rents, Goods, or Chattels were or ſhall be detained, ſince theſe troubles begun, as the Provin<g ref="char:EOLhyphen"/>ciall Councell, or County Councell ſhall reſpectively order.</p>
+            <p n="13">13. <hi>Item,</hi> It is further ordered and eſtabliſhed for the re<g ref="char:EOLhyphen"/>moveall
+<pb n="8" facs="tcp:130886:6"/>of evill diſorder and enmity, and to the end that all men may bend their thoughts and actions to the Common Cauſe, that all poſſeſſions of Lands, and Hereditaments ſhall continue and remaine unto ſuch as have already joyned in this union, as they have beene for three years paſt<g ref="char:punc">▪</g> next before the begining of theſe troubles, and that no title of Lands ſhall be drawn into any debate or queſtion, untill the next Aſſem<g ref="char:EOLhyphen"/>bly, other then in caſe of Morgages, Leaſes, and particular eſtates <hi>de facto</hi> determined, or determinable by effluction or other determination thereof.</p>
+            <p n="14">14. <hi>Item,</hi> For the avoiding of nationall diſtinction between the ſubjects of his Majeſties Dominions; which this Aſſembly doth utterly deteſt and abhor, &amp; which ought not to be endu<g ref="char:EOLhyphen"/>red in a well governed Common wealth: It is ordered and eſtabliſhed, that upon paine of the higheſt puniſhment which may be inflicted by authority of this Aſſembly, that every Ro<g ref="char:EOLhyphen"/>man Catholike, aſ well Engliſh, Welſh, and Scotch; who was of that Profeſſion before the troubles, and who will come and pleaſe to reſide in this Kingdom, &amp; joyn in the preſent union, ſhall be preſerved and cheriſhed in his life, goods, and eſtate by the power, authority, and force (if need require it) of all the Catholikes of <hi>Ireland,</hi> as full and freely as any Native borne therin, &amp; ſhall be acquitted &amp; eaſed of one third part in three parts to be divided, of publique charges or leavies, raiſed or to be raiſed for the maintenance of this holy warre.</p>
+            <p n="15">15. <hi>Item,</hi> And it is further ordered &amp; eſtabliſhed, that there ſhall be no diſtinction or compariſon made betwixt old Iriſh and old or new Engliſh, or betwixt ſepts and families, or be<g ref="char:EOLhyphen"/>twixt Citizens &amp; Townſmen &amp; Countreymen joyning in this union, on pain of the higheſt puniſhment that can be inflicted by any the Councells aforeſaid, according to the natureland quality of the offences and diviſion like to ſpring thence.</p>
+            <pb n="9" facs="tcp:130886:6"/>
+            <p n="16">16. <hi>Item,</hi> It is further ordered and eſtabliſhed, that all new Converts borne in any his Majeſties Dominions, or elſwhere, without manifeſt occaſion given by the perſons converted, to the contrary, and joyning in this Cauſe, ſhall be accompted Catholikes and Natives to all intents and purpoſes.</p>
+            <p n="17">17. <hi>Item,</hi> It is further ordered &amp; eſtabliſhed, that all Artificers, Artizans, Navigators, &amp; Marriners, not being Denizens, who ſhall pleaſe to reſide in this Kingdome, ſhall during their reſi<g ref="char:EOLhyphen"/>dence in this Kingdom, after ſuch time as they &amp; their familles ſhall be here ſetled, have and enjoy their free liberties and priviledges of Natives in all reſpects.</p>
+            <p>
+               <hi>Item,</hi> It is further ordered &amp; eſtabliſhed; that in regard of the preſent eſtate &amp; condition of this kingdom, eſpecially if he a Catholik, or any other Catholik, is admitted of, or permitted to continue in the Ins of Court, &amp; to the end the laudable laws of <hi>Eng.</hi> &amp; <hi>Ireland</hi> may not dy amidſt the diſaſters of theſe times one In of Court ſhall be erected in ſuch place of this kingdom as to the ſupreme Councel ſhal be thought fit for the training of the Gentry of this kingdom to the knowledge of theſe laws.</p>
+            <p n="19">19. <hi>Item,</hi> It is further ordered and eſtabliſhed, that no Lord, Gentleman, or other perſon, ſhal raiſe or keep any company of ſouldiers, but ſuch as ſhal be authorized by the ſupreme Coun<g ref="char:EOLhyphen"/>cel, Provinciall Councel, or County Councel, or Magiſtrate, with their own corporate Towns, and that the Statute againſt Seſſe &amp; Coyn or Livery be duly put in execution; and that no company or ſouldiers whatſoever ſhall be paid or relieved by the Country, excepting ſuch as are; or ſhall be enrolled in the Marſhals liſt, and none ſhall be billited but by the Conſtable.</p>
+            <p n="20">20. <hi>Item,</hi> It is further ordered &amp; eſtabliſhed for the advance<g ref="char:EOLhyphen"/>ment of learning, that in every Province of this kingdom, Free ſchools ſhal be erected &amp; maintained, ſo many &amp; in ſuch places and in ſuch manner &amp; form as to the Metropolitan of the Dio<g ref="char:EOLhyphen"/>ceſſe in their reſpective Provinces ſhall be thought ſit.</p>
+            <pb n="10" facs="tcp:130886:7"/>
+            <p n="21">21. <hi>Item,</hi> It is further ordered and eſtabliſhed, that the Kings Cuſtomes, Rents, Revenues, Arreares, and Dues, and the Rents, Eſtates, and Profits of the Lands, Hereditaments, Goods, and Chattells of the enemies which are, or ſhall be de<g ref="char:EOLhyphen"/>clared by the Provinciall or Supreme Councell, or by the Generall Councell, bee received and collected, and be diſ<g ref="char:EOLhyphen"/>poſed for his Majeſties uſe and ſervice.</p>
+            <p>
+               <hi>Item,</hi> It is further ordered and eſtabliſhed, that Church Lands and Tithes impropriate in the Catholike owners be<g ref="char:EOLhyphen"/>fore theſe troubles, and joyning in this Cauſe, may be left to them according to their ſeverall Eſtates, untill the ſame be diſpoſed of by Parliament, they in the interim anſwering the Rents as accuſtomed.</p>
+            <p n="23">23. <hi>Item,</hi> It is further ordered and eſtabliſhed, that in every County there be Collectors and Receivers to be appro<g ref="char:EOLhyphen"/>ved by the County Councell for the ſame, and that they be accomptable to the County Councell for the ſame; which County Councell ſhall be accomptable to the Provinciall Councell therein halfe-yearly, and the Provinciall Councell to the Supreme Councell yearly, to the end the ſame may not be concealed or miſapplied.</p>
+            <p n="24">24. <hi>Item,</hi> It is ordered and agreed, where any Archbiſhop, Biſhop, or other dignitory, or any other perſon or perſons whatſoever, hath or enjoyeth any Lands, Tenements, or He<g ref="char:EOLhyphen"/>reditaments, Tithes, or Church livings in one County or Province, or doth or ſhall keep his or their reſidence in ano<g ref="char:EOLhyphen"/>ther County or Province, and hath his or their creation or nomination in any other County or Province, where the ſaid Lands, Tenements, and Hereditaments, Tithes, or Church livings to the generall uſe ſhall be employed within the ſaid County and Province where the ſaid Lands, Tenements, He<g ref="char:EOLhyphen"/>reditaments, Tithes, or Church livings doe lie, as by the ſe<g ref="char:EOLhyphen"/>verall
+<pb n="11" facs="tcp:130886:7"/>County Councells reſpectively ſhall be thought fit for the Publique Cauſe.</p>
+            <p n="25">25. <hi>Item,</hi> It is ordered and eſtabliſhed by the Generall Aſſembly, that any woman being a Roman Catholike, and wife of any Proteſtant, or Catholike that hath forſaken his houſes, eſtate, and wife, and adhere unto the enemy; that every ſuch wife may enter into her Jointure (if any be con<g ref="char:EOLhyphen"/>veighed unto her) or may recover her thirds of her ſaid huſ<g ref="char:EOLhyphen"/>bands eſtate, as if her ſaid husband were actually dead; and that every ſuch wife ſhall be in ſuch condition and capacity to ſue and be impleaded, as if her husband had beene exiled or baniſhed the Realme by judgement of Law, except the Pro<g ref="char:EOLhyphen"/>vinciall or Supreme Councell in particular caſes order the contrary.</p>
+            <p n="26">26. <hi>Item,</hi> It is ordered and eſtabliſhed, that the poſſeſſion of Proteſtant Archbiſhops, Biſhops, Deanes, Dignitories, and Parſons in right of their reſpective Churches, or their Tenements in the begining of theſe troubles, ſhall be deemed taken, and conſtrued as the then poſſeſſions of the Catholike Archbiſhops, Biſhops, Deanes, Dignitories, Paſtors, and their Tenements reſpectively to all intents and purpoſes, and that thoſe poſſeſſions are intended within the precedent Or<g ref="char:EOLhyphen"/>der for ſettlement of poſſeſſions.</p>
+            <p n="27">27. <hi>Item,</hi> It is ordered and eſtabliſhed, that no man being priſoner by authority of any the Councels aforeſaid, ſhall be enlarged without the Order of the ſaid Councels reſpectively, and that no protection be given to ſervants, or other men of the enemies party without the like Order, or the Order of the chiefe Commander of the Army in the ſeverall Provinces of Counties.</p>
+            <p n="28">28. <hi>Item,</hi> Whereas abuſes have beene committed in ſome parts of this Kingdome, in taking of Armes, Ammunition,
+<pb n="12" facs="tcp:130886:8"/>and other Merchandizes from Merchants arived in Creeks, or Harbors farre from their intended Port, by reaſon of tem<g ref="char:EOLhyphen"/>peſt, or the dangers of enemies, to the great diſcouragement of the Merchants: It is therefore ordered and eſtabliſhed, that where any Ship or Ships, or other Veſſels, ſhall come, or arrive in any Harbor, Bay, or Creek within this Kingdome loaden with Armes, Ammunition, or other Merchandizes; that in ſuch caſes all thoſe who are, or ſhall be in Command in the adjacent Counties reſpectively, ſhall protect and defend the ſaid Merchants, their goods, and ſervants, and ſhall at the charge of the ſaid Merchants, procure carriage for the ſaid goods, and ſafely conveigh the ſame to the ſaid Merchants intended Port, and not to ſuffer the ſame, or any of the ſame under colour of paying for the ſame or otherwiſe, to be diſ<g ref="char:EOLhyphen"/>poſed of, or taken, before the ſame come to the intended Port, and be entred into the Liſt of the Commiſſioners, or by the expreſſe direction in writing of the ſaid Commiſſioners; and any that ſhall rob, ſteale, or violently take away any of the ſaid Goods, contrary to this Order, ſhall be deemed and puniſhed as enemies to the publique good of this Kingdome, and ſuffer death therefore.</p>
+            <p n="29">29. <hi>Item,</hi> That certaine Commiſſioners ſhall be appointed in every Port Towne of the Freemen and Reſidents therein, by the Provinciall or Supreme Councell, for the viewing of all the Armes and Ammunition that ſhall be hereafter im<g ref="char:EOLhyphen"/>ported into this Realme from beyond the Seas, and to certifie the ſame to the Supreme Councell with all ſpeed, and to pre<g ref="char:EOLhyphen"/>vent abuſes in the ſale, or iſſuing, or diſpoſing of them.</p>
+            <p n="30">30. <hi>Item,</hi> It is ordered and eſtabliſhed, that where Soul<g ref="char:EOLhyphen"/>diers doe runne from their Garriſons or Commanders, unto other Counties and Provinces, that the Commanders or chiefe Governours of the ſaid County or Province, upon
+<pb n="13" facs="tcp:130886:8"/>complaint made thereof, ſhall ſend back the ſaid fugitive Souldiers to their Commanders, to be dealt withall accor<g ref="char:EOLhyphen"/>ding unto Juſtice.</p>
+            <p n="31">31. <hi>Item,</hi> It is ordered and eſtabliſhed, that the Debts, and other Duties owing to Creditors of this union, being Neuters and Enemies, ſhall be paid out of the Goods, Lands, Tenements, and Hereditaments of the ſaid Neuters and Ene<g ref="char:EOLhyphen"/>mies reſpectively, before any other publique Charge bee an<g ref="char:EOLhyphen"/>ſwered thereout.</p>
+            <p n="32">32. <hi>Item,</hi> It is ordered and eſtabliſhed, that no Souldiers, or other Perſons, without command from the County Coun<g ref="char:EOLhyphen"/>cell, meddle with the lands, or goods of Neuters or Enemies.</p>
+            <p n="33">33. <hi>Item,</hi> It is ordered and eſtabliſhed, that to prevent the ſpringing up of all Nationall diſtinctions, the Oath of Aſſo<g ref="char:EOLhyphen"/>ciation or Union be taken ſolemnly after confeſſion and re<g ref="char:EOLhyphen"/>ceiving the Sacrament, in the Pariſh Churches throughout the Kingdome; and the names of all the Perſons of Rank and Quality in every pariſh, that takes the ſame, bee enrolled in Parchment, and be returned, ſigned and ſealed by the Pariſh Prieſt, to the Ordinary of every Dioceſſe, who is to keep the ſame in his Treaſury, and to certifie a Copy thereof, under Seale, to the Metropolitan, who is to keep that, and to cer<g ref="char:EOLhyphen"/>tifie a true Copy thereof, under his Metropoliticall Seale, to the Rols of the Kingdom, where the ſame is to be enrolled.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
